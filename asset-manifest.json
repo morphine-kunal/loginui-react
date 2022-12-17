@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/loginui-react/static/css/main.738f86e2.css",
+    "main.js": "/loginui-react/static/js/main.7ed065bf.js",
+    "static/js/787.81bc84d8.chunk.js": "/loginui-react/static/js/787.81bc84d8.chunk.js",
+    "static/media/logos.png": "/loginui-react/static/media/logos.58084b8122d90fa7c35e.png",
+    "index.html": "/loginui-react/index.html",
+    "main.738f86e2.css.map": "/loginui-react/static/css/main.738f86e2.css.map",
+    "main.7ed065bf.js.map": "/loginui-react/static/js/main.7ed065bf.js.map",
+    "787.81bc84d8.chunk.js.map": "/loginui-react/static/js/787.81bc84d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.738f86e2.css",
+    "static/js/main.7ed065bf.js"
+  ]
+}
